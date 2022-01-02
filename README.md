@@ -6,7 +6,7 @@
 - this is the build that i maintained on my system , i prefer how its laid out . I contributed to secode's development on the main repo.
 - check out https://github.com/AliasgarSabunwala/Secode if you wish to see the full release version . There is no difference between the core logic of the two repos, only cosmetic and licensing .
 
-i would like to thank all other contributers to this project , which we made for as our second undergrad security project :
+i would like to thank all other contributers to this project , which we made for our second undergrad security project :
 
 1. AliasgarSabunwala - https://github.com/AliasgarSabunwala
 2. Noel Varghese     - https://github.com/NoelV11
