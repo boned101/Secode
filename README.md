@@ -1,7 +1,7 @@
 # Secode
 - Secode - a python3 command line static code analyzer for C source files. It analyzes the code line by line and creates a list for each vulnerability with a scale of severity for each hit ranging from 1 to 5.
 - It also prints out suggestions/alternate functions for each hit on each line .
-- It has a ruleset with a total of 233 C insecure functions which it compares during its analysis.
+- It has a ruleset with a total of 233  insecure C functions which it compares during its analysis.
 
 # This Version
 - this is the build that i maintained on my system , i prefer how its laid out . I contributed to secode's development on the main repo.
